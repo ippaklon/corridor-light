@@ -41,30 +41,15 @@ Colored paths are corridors proposed on three RESCO networks. Each row is four s
 
 **Arterial 4×4**
 
-<p align="center">
-  <img src="figs/wbg_art1.png" width="220">
-  <img src="figs/wbg_art2.png" width="220">
-  <img src="figs/wbg_art3.png" width="220">
-  <img src="figs/wbg_art4.png" width="220">
-</p>
+<p align="center"><img src="figs/wbg_art1.png" alt="Arterial replan 1" width="23%"><img src="figs/wbg_art2.png" alt="Arterial replan 2" width="23%"><img src="figs/wbg_art3.png" alt="Arterial replan 3" width="23%"><img src="figs/wbg_art4.png" alt="Arterial replan 4" width="23%"></p>
 
 **Cologne**
 
-<p align="center">
-  <img src="figs/wbg_col1.png" width="220">
-  <img src="figs/wbg_col2.png" width="220">
-  <img src="figs/wbg_col3.png" width="220">
-  <img src="figs/wbg_col4.png" width="220">
-</p>
+<p align="center"><img src="figs/wbg_col1.png" alt="Cologne replan 1" width="23%"><img src="figs/wbg_col2.png" alt="Cologne replan 2" width="23%"><img src="figs/wbg_col3.png" alt="Cologne replan 3" width="23%"><img src="figs/wbg_col4.png" alt="Cologne replan 4" width="23%"></p>
 
 **Ingolstadt**
 
-<p align="center">
-  <img src="figs/wbg_ig1.png" width="220">
-  <img src="figs/wbg_ig2.png" width="220">
-  <img src="figs/wbg_ig3.png" width="220">
-  <img src="figs/wbg_ig4.png" width="220">
-</p>
+<p align="center"><img src="figs/wbg_ig1.png" alt="Ingolstadt replan 1" width="23%"><img src="figs/wbg_ig2.png" alt="Ingolstadt replan 2" width="23%"><img src="figs/wbg_ig3.png" alt="Ingolstadt replan 3" width="23%"><img src="figs/wbg_ig4.png" alt="Ingolstadt replan 4" width="23%"></p>
 
 ## Repository layout
 
