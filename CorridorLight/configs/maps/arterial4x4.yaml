@@ -1,0 +1,13 @@
+# RESCO arterial4x4 map
+net_file: sumo_rl/nets/RESCO/arterial4x4/arterial4x4.net.xml
+route_file: sumo_rl/nets/RESCO/arterial4x4/arterial4x4_1.rou.xml
+reward_fn: diff-waiting-time
+reward_scale: 1.0
+gui: false
+num_seconds: 3600
+min_green: 5
+delta_time: 10
+log_level: INFO
+traffic_scale: 1.0
+lambda_friction_coeff: 0.5
+

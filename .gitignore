@@ -1,0 +1,21 @@
+# NeurIPS manuscript, figures, and the camera-ready PDF stay local.
+paper/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.mypy_cache/
+
+# Training artifacts
+results/
+checkpoints/
+wandb/
+*.pt
+*.pth
+
+# Local environments
+.env
+.venv/
+venv/

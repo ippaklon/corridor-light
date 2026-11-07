@@ -1,0 +1,16 @@
+delta_time:
+  - 10
+corridor_delta_time:
+  - 30
+  - 60
+max_corridors:
+  - 6
+lambda_friction_coeff:
+  - 1.0
+  - 0.5
+  - 1.5
+
+# Corridor reward aggregation.
+corridor_reward_agg:
+  - sum
+
